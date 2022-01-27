@@ -1,6 +1,6 @@
 # SSL-Certificate-Future-Expiry-Checking
 
-## This is a minitool that checks whether the SSL certificate expiry date is approaching or not. 
+## This is a mini tool that checks whether the SSL certificate expiry date is approaching or not. 
 
 This also prints the last date that the certificate is valid.
 
